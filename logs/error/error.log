@@ -1,0 +1,331 @@
+{"level":"error","message":"Error in creating game table:SequelizeUniqueConstraintError: Validation error","statusCode":500,"timestamp":"2024-07-07 18:00:29"}
+{"level":"error","message":"Error in creating score table:SequelizeUniqueConstraintError: Validation error","statusCode":500,"timestamp":"2024-07-07 18:00:29"}
+{"level":"error","message":"Internal server error: Cannot read properties of undefined (reading 'status')","statusCode":500,"timestamp":"2024-07-08 08:15:45"}
+{"level":"error","message":"Internal server error: Cannot read properties of undefined (reading 'status')","statusCode":500,"timestamp":"2024-07-08 08:19:03"}
+{"level":"error","message":"Internal server error: Cannot destructure property 'username' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 08:22:43"}
+{"level":"error","message":"Internal server error: Cannot read properties of undefined (reading 'status')","statusCode":500,"timestamp":"2024-07-08 08:29:00"}
+{"level":"error","message":"Internal server error: Cannot read properties of undefined (reading 'status')","statusCode":500,"timestamp":"2024-07-08 08:29:44"}
+{"level":"error","message":"Internal server error: res.status(...).send is not a function","statusCode":500,"timestamp":"2024-07-08 08:32:40"}
+{"level":"error","message":"Internal server error: res.status(...).send is not a function","statusCode":500,"timestamp":"2024-07-08 08:35:12"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:22:02"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:22:02"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:22:23"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:22:23"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:23:11"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:23:11"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:03"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:03"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:03"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:43"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:43"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:24:43"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:24"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:24"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:24"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:48"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:48"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:25:48"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:27:50"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:27:50"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:27:50"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:30:22"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:30:22"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:30:22"}
+{"level":"error","message":"Internal server error: Cannot access 'email' before initialization","statusCode":500,"timestamp":"2024-07-08 11:30:22"}
+{"level":"error","message":"Internal server error: Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 12:10:45"}
+{"level":"error","message":"Internal server error: Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 12:12:27"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:20:07"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:22:42"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:22:42"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:24:31"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:24:31"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:26:28"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:26:28"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:27:04"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:27:04"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:27:30"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:27:30"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:28:01"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:28:01"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:28:21"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:28:21"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:29:15"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:29:15"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:29:28"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:29:28"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:29:54"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:29:54"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:30:14"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:30:14"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:30:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:30:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:31:44"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:31:44"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:34:26"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:34:26"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:34:56"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:34:56"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:37:17"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:37:17"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:38:00"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:38:00"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:38:29"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:38:29"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:45:10"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:45:10"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:46:42"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:46:42"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:50:05"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:50:05"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:52:31"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:52:31"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:54:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:54:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:55:11"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:55:11"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:55:47"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:55:47"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:57:52"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:57:52"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:58:30"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:58:30"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 12:59:39"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 12:59:39"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:02:05"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:02:05"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:02:30"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:02:30"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:05:09"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:05:09"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:05:27"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:05:27"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:05:57"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:05:57"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:07:07"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:07:07"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:08:07"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:08:07"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:09:08"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:09:08"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:09:58"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:09:58"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:11:28"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:11:28"}
+{"level":"error","message":"Invalid or expired token","method":"GET","statusCode":401,"timestamp":"2024-07-08 13:12:54","url":"/games/game"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:14:06"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:14:06"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:14:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:14:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:15:15"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:15:15"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:15:38"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:15:38"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:18:55"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:18:55"}
+{"level":"error","message":"Internal server error Cannot destructure property 'id' of 'req.params' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:18:55"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:19:25"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:19:25"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:20:31"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:20:31"}
+{"level":"error","message":"Internal server error Cannot destructure property 'id' of 'req.params' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:20:31"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:21:14"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:21:14"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:25:52"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:25:52"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:30:59"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:30:59"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:31:41"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:31:41"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:32:26"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:32:26"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:33:55"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:33:55"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:33:55"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:34:14"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:34:14"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:34:14"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:41:41"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:41:41"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:41:41"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:43:23"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:43:23"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:43:23"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:43:43"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:43:43"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:43:43"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:44:48"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:44:48"}
+{"level":"error","message":"Invalid token","method":"PUT","statusCode":401,"timestamp":"2024-07-08 13:44:48","url":"/games/1"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:45:08"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:45:08"}
+{"level":"error","message":"Invalid token","method":"PUT","statusCode":401,"timestamp":"2024-07-08 13:45:08","url":"/games/1"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:45:34"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:45:34"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:46:00"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:46:00"}
+{"level":"error","message":"Internal server error Cannot destructure property 'name' of 'req.body' as it is undefined.","statusCode":500,"timestamp":"2024-07-08 13:46:00"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:48:46"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:48:46"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:49:37"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:49:37"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:50:45"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:50:45"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:51:23"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:51:23"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:51:38"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:51:38"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:52:13"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:52:13"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:57:30"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:57:30"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:57:45"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:57:45"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:58:18"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:58:18"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:58:32"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:58:32"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:58:43"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:58:43"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:58:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:58:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 13:59:35"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 13:59:35"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:08:54"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:08:54"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:11:02"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:11:02"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:11:46"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:11:46"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:12:18"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:12:18"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:12:34"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:12:34"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:12:58"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:12:58"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:14:18"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:14:18"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:15:07"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:15:07"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:18:27"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:18:27"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:25:21"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:25:21"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:27:03"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:27:03"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:27:37"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:27:37"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:28:07"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:28:07"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:28:59"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:28:59"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 14:29:17"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 14:29:17"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:32:18"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:32:18"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:32:18"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:32:18"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:33:32"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:33:32"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:33:32"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:33:32"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:35:54"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:35:54"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:35:54"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:35:54"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:36:00"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:36:00","url":"/users/register"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:36:00"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:36:00"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:36:00"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:36:10","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:37:49"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:37:49"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:37:49"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:37:49"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:37:53","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:37:55","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:00"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:00"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:00"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:00"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:22"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:22"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:22"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:22"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:36"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:36"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:36"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:38:36"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:42:07"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:42:07"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:42:07"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 15:42:07"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:42:11","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:45:54","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:47:25","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:47:27","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:connect ECONNREFUSED 13.202.37.117:5432","statusCode":500,"timestamp":"2024-07-08 15:59:16"}
+{"level":"error","message":"Internal server error: connect ECONNREFUSED 13.202.37.117:5432","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:59:16","url":"/users/register"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionRefusedError: connect ECONNREFUSED 13.202.37.117:5432","statusCode":500,"timestamp":"2024-07-08 15:59:16"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionRefusedError: connect ECONNREFUSED 13.202.37.117:5432","statusCode":500,"timestamp":"2024-07-08 15:59:16"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionRefusedError: connect ECONNREFUSED 13.202.37.117:5432","statusCode":500,"timestamp":"2024-07-08 15:59:16"}
+{"level":"error","message":"Internal server error: connect ECONNREFUSED 13.202.37.117:5432","method":"POST","statusCode":500,"timestamp":"2024-07-08 15:59:31","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:00:03","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:00:09","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:00:12","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:01:43","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:01:44","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:01:50"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:01:50"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:01:50"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:01:50"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:01:54","url":"/users/register"}
+{"level":"error","message":"Internal server error: connect ECONNREFUSED 13.202.37.117:5432","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:03:48","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:03:50","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:11:03","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:11:05","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:35:05","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:35:06","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:35:28"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:35:28"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:35:28"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:35:28"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:35:28","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:35:30","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:13","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:14","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:15","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:16","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:28","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:37:29","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:39:40","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:50"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:50"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:50"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:50"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:39:53","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:54"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:54"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:54"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:39:54"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:03","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:04","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:05","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:25","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:46","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:40:53"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:40:53"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:40:53"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:40:53"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:56","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:40:57","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:41:05","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:46:24","url":"/users/register"}
+{"level":"error","message":"Unable to connect to the database: error:no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:53:36"}
+{"level":"error","message":"Error in creating user table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:53:36"}
+{"level":"error","message":"Error in creating game table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:53:36"}
+{"level":"error","message":"Error in creating score table:SequelizeConnectionError: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","statusCode":500,"timestamp":"2024-07-08 16:53:36"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:53:38","url":"/users/register"}
+{"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:53:39","url":"/users/register"}
+{"level":"error","message":"Route not found","method":"GET","statusCode":404,"timestamp":"2024-07-08 18:09:07","url":"/scores/score/1661cf03-b543-4eea-a21b-c6d544bd7a3f"}
+{"level":"error","message":"Route not found","method":"GET","statusCode":404,"timestamp":"2024-07-08 18:09:15","url":"/scores/score/1661cf03-b543-4eea-a21b-c6d544bd7a3f"}
