@@ -3358,3 +3358,514 @@
 {"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 18:44:59"}
 {"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 18:44:59"}
 {"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 18:44:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 20:38:41"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 20:38:43"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:43"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:43"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:43"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:43"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:38:57"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 20:38:57"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:57"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:57"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:38:58"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:38:58"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:38:58"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:45:00"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 20:45:00"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:00"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:45:00"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:45:01"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:45:01"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:45:01"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:48:38"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 20:48:38"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 20:48:38"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:48:39"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 20:48:39"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:00:45"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:00:45"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:45"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:00:45"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:00:46"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:00:46"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:00:46"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:05:12"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:05:12"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:05:13"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:05:13"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:06:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:06:51"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:52"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:06:52"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:52"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:06:52"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:06:52"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:07:17"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:07:17"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:18"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:18"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:28"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:07:28"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:07:28"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:07:29"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:29"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:30"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:30"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:30"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:07:30"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:30"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:07:30"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:08:27"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:28"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:08:28"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:08:28"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:08:28"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:09:14"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:09:14"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:09:14"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:09:15"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:09:15"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:12:54"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:12:54"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:55"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:55"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:12:55"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:12:55"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:12:55"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:13:41"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:13:41"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:13:41"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:13:42"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:13:42"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:13:42"}
+{"level":"warn","message":"Email already registerd","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"info","message":"User created successfully","statusCode":201,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"Please fill correct role Admin or Player","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"Incorrect email or password","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"info","message":"User login successfully","statusCode":200,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:20:49"}
+{"level":"warn","message":"User not found","statusCode":404,"timestamp":"2024-07-08 21:20:49"}
+{"level":"info","message":"User retrive successfully","statusCode":200,"timestamp":"2024-07-08 21:20:49"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:20:50"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"You are not authorized","statusCode":403,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Game created successfully","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing fields","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Game updated successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing game id","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"warn","message":"Missing token","statusCode":400,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Game deleted successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:20:50"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:24:16"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:24:16"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:16"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:16"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:16"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:24:19"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:24:20"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:20"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:20"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:24:20"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:25:10"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:25:10"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:10"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:10"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:10"}
+{"level":"info","message":"Game created successfully","method":"POST","statusCode":201,"timestamp":"2024-07-08 21:25:12","url":"/games/game"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:25:44"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:25:44"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:44"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:44"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:25:47"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:25:47"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:47"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:47"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:25:47"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:26:25"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:26:25"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:25"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:25"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:25"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-08 21:26:27"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-08 21:26:28"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:28"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:28"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-08 21:26:28"}

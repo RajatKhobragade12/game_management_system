@@ -329,3 +329,29 @@
 {"level":"error","message":"Internal server error: no pg_hba.conf entry for host \"49.35.129.145\", user \"game_management_db\", database \"rajatkhobragade\", no encryption","method":"POST","statusCode":500,"timestamp":"2024-07-08 16:53:39","url":"/users/register"}
 {"level":"error","message":"Route not found","method":"GET","statusCode":404,"timestamp":"2024-07-08 18:09:07","url":"/scores/score/1661cf03-b543-4eea-a21b-c6d544bd7a3f"}
 {"level":"error","message":"Route not found","method":"GET","statusCode":404,"timestamp":"2024-07-08 18:09:15","url":"/scores/score/1661cf03-b543-4eea-a21b-c6d544bd7a3f"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:38:58"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:38:58"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:45:01"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:45:01"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 20:48:39"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 20:48:39"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:00:46"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:00:46"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:05:12"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:05:12"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:06:51"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:06:51"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:07:17"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:07:17"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:07:29"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:07:29"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:08:27"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:08:27"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:09:15"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:09:15"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:12:54"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:12:54"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:13:42"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:13:42"}
+{"level":"error","message":"Invalid token","statusCode":401,"timestamp":"2024-07-08 21:20:50"}
+{"level":"error","message":"Invalid token","statusCode":403,"timestamp":"2024-07-08 21:20:50"}

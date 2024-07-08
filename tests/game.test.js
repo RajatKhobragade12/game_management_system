@@ -28,9 +28,7 @@ describe('Create a new  game', () => {
         send: jest.fn(),
     };
 
-    // beforeEach(() => {
-    //     jest.clearAllMocks();
-    // });
+
     it("Should send a status code of 400 when fields are missing", async () => {
         const Invalidreq = {
             body: {},

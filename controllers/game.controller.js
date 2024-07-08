@@ -146,10 +146,7 @@ async function updateGame(req, res) {
             return res.status(400).send({ message: "Missing game id" })
         }
         const { name, genre, releaseDate } = req.body;
-        // if (releaseDate && /\d{4}\/\d{2}\/\d{2}/.test(releaseDate)) {
-        //     console.log("😎😎😎😎😎😎😎")
-        //     return res.status(400).send({ message: "Release date format incorrect. Use YYYY/MM/DD." });
-        // }
+
         if (!name && !genre && !releaseDate) {
             logger.warn({
                 message: "Missing fields",
@@ -198,7 +195,7 @@ async function updateGame(req, res) {
         }
         if (role != "Admin") {
             logger.warn({
-                message: "You are not authorized" ,
+                message: "You are not authorized",
                 url: req.originalUrl,
                 method: req.method,
                 statusCode: 403
@@ -227,7 +224,7 @@ async function updateGame(req, res) {
         }
         await game.save();
         logger.info({
-            message:  "Game updated successfully",
+            message: "Game updated successfully",
             url: req.originalUrl,
             method: req.method,
             statusCode: 200
@@ -297,7 +294,7 @@ async function deleteGame(req, res) {
         }
         if (role != "Admin") {
             logger.warn({
-                message: "You are not authorized" ,
+                message: "You are not authorized",
                 url: req.originalUrl,
                 method: req.method,
                 statusCode: 403
@@ -320,7 +317,7 @@ async function deleteGame(req, res) {
             },
         });
         logger.info({
-            message:"Game deleted successfully" ,
+            message: "Game deleted successfully",
             url: req.originalUrl,
             method: req.method,
             statusCode: 200
