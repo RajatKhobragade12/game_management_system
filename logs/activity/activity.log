@@ -1,0 +1,57 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 07:58:46"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 07:58:47"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:58:48"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:58:48"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:58:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 07:59:24"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 07:59:25"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:26"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:26"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 07:59:46"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 07:59:47"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 07:59:48"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:48"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:48"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 07:59:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:00:05"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 08:00:06"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:07"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:07"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:07"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:00:13"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:00:14"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 08:00:15"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:16"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:16"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:16"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:00:22"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 08:00:24"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:24"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:24"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:24"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:00:57"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 08:00:58"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:59"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:59"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:00:59"}
+{"level":"error","message":"You are not authorized","method":"POST","statusCode":403,"timestamp":"2024-07-09 08:02:07","url":"/scores/score"}
+{"level":"info","message":"User login successfully","method":"POST","statusCode":200,"timestamp":"2024-07-09 08:02:44","url":"/users/login"}
+{"level":"info","message":"Score added successfully","method":"POST","statusCode":201,"timestamp":"2024-07-09 08:02:59","url":"/scores/score"}
+{"level":"info","message":"Score added successfully","method":"POST","statusCode":201,"timestamp":"2024-07-09 08:03:11","url":"/scores/score"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-07-09 08:03:20"}
+{"level":"info","message":"Connection has been established successfully","statusCode":200,"timestamp":"2024-07-09 08:03:21"}
+{"level":"info","message":"Game table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:03:22"}
+{"level":"info","message":"User table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:03:22"}
+{"level":"info","message":"Score table created successfully.","statusCode":201,"timestamp":"2024-07-09 08:03:22"}
+{"level":"info","message":"User retrive successfully","method":"GET","statusCode":200,"timestamp":"2024-07-09 08:04:11","url":"/users/profile"}
+{"level":"info","message":"Score added successfully","method":"POST","statusCode":201,"timestamp":"2024-07-09 08:04:27","url":"/scores/score"}
+{"level":"info","message":"Score retrived successfully","method":"GET","statusCode":200,"timestamp":"2024-07-09 08:04:41","url":"/scores/score/user/0bd36a76-0905-46d3-a803-39f8a88f259f"}
+{"level":"info","message":"Score added successfully","method":"POST","statusCode":201,"timestamp":"2024-07-09 08:04:50","url":"/scores/score"}
+{"level":"info","message":"Score retrived successfully","method":"GET","statusCode":200,"timestamp":"2024-07-09 08:05:16","url":"/scores/score/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
+{"level":"error","message":"You are not authorized","method":"DELETE","statusCode":403,"timestamp":"2024-07-09 08:05:37","url":"/games/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
+{"level":"info","message":"User login successfully","method":"POST","statusCode":200,"timestamp":"2024-07-09 08:05:55","url":"/users/login"}
+{"level":"info","message":"Score retrived successfully","method":"GET","statusCode":200,"timestamp":"2024-07-09 08:06:23","url":"/scores/score/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
+{"level":"error","message":"You are not authorized","method":"DELETE","statusCode":403,"timestamp":"2024-07-09 08:06:29","url":"/games/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
+{"level":"info","message":"Game deleted successfully","method":"DELETE","statusCode":200,"timestamp":"2024-07-09 08:06:33","url":"/games/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
+{"level":"warn","message":"Game not found","method":"GET","statusCode":404,"timestamp":"2024-07-09 08:06:38","url":"/games/game/75d85a44-17cf-4d72-984d-7c458991aeca"}
