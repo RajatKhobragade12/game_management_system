@@ -31,6 +31,7 @@ Game routes
 
 Create Game (POST)- /games/game
 Get All Game (GET) - /games/game
+Get Single Game (GET) - /games/game/:id
 Update Game (PUT) - /games/game/:id
 Delete Game (Delete) - /games/game/:id
 

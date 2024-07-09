@@ -133,6 +133,63 @@ async function getAllGames(req, res) {
 }
 
 
+async function getSingleGame(req, res) {
+    try {
+        const token = req.headers["token"];
+        if (!token) {
+            logger.warn({
+                message: "Missing token",
+                url: req.originalUrl,
+                method: req.method,
+                statusCode: 400
+            });
+            return res.status(400).send({ message: "Missing token" })
+        }
+
+        let email;
+        try {
+            email = await verifyToken(token)
+
+        } catch (error) {
+            logger.error({
+                message: error.message,
+                url: req.originalUrl,
+                method: req.method,
+                statusCode: 401
+            });
+            return res.status(401).send({ message: error.message })
+        }
+        const { id } = req.params;
+        const game = await Game.findOne({ where: { id: id } });
+        if (!game) {
+            logger.warn({
+                message: "Game not found",
+                url: req.originalUrl,
+                method: req.method,
+                statusCode: 404
+            });
+            return res.status(404).send({ message: "Game not found" })
+        }
+        logger.info({
+            message: "Game retrive successfully",
+            url: req.originalUrl,
+            method: req.method,
+            statusCode: 200
+        });
+        res.status(200).send({ message: "Game retrive successfully", data: game })
+
+    } catch (error) {
+        logger.error({
+            message: `Internal server error: ${error.message}`,
+            url: req.originalUrl,
+            method: req.method,
+            statusCode: 500
+        });
+        res.status(500).send({ message: "Internal server error", error: error.message })
+    }
+}
+
+
 async function updateGame(req, res) {
     try {
         const { id } = req.params;
@@ -339,5 +396,6 @@ module.exports = {
     createGame,
     getAllGames,
     updateGame,
-    deleteGame
+    deleteGame,
+    getSingleGame
 }
