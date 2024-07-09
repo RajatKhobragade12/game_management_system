@@ -5,19 +5,28 @@ Setup Application -
 3) Create .env file
 4) Add data in .env file
 5) Run command - npm start
-6) Run test cases - npm test
-7) Attached api documentation with email.
-8) Used aws RDS service for database.
-9) Base url - localhost:3000
-10) Created CICD Pipline for this Application;
+6) Attached api documentation with email.
+7) Used aws RDS service for database.
+8) Base url - localhost:3000
+9) Created CICD Pipline for this Application.
+10) Database used - AWS RDS.
+
 
 .env
+
 PORT = 3000
 DB = game_management_db
 USER= rajatkhobragade
 PASSWORD = rajatrajat12
 HOST = database-1.c5miqk2sydop.ap-south-1.rds.amazonaws.com
 SECRET = 314563BHGfhjgf5623vghfds
+
+
+
+
+
+
+
 
 
 Base Url - localhost:3000
