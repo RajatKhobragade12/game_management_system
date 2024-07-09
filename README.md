@@ -11,14 +11,16 @@ Setup Application -
 9) Base url - localhost:3000
 10) Created CICD Pipline for this Application;
 
+//=============================================================================================//
 .env
+
 PORT = 3000
 DB = game_management_db
 USER= rajatkhobragade
 PASSWORD = rajatrajat12
 HOST = database-1.c5miqk2sydop.ap-south-1.rds.amazonaws.com
 SECRET = 314563BHGfhjgf5623vghfds
-
+//================================================================================================//
 
 Base Url - localhost:3000
 
