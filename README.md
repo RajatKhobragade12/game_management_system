@@ -9,6 +9,7 @@ Setup Application -
 7) Used aws RDS service for database.
 8) Base url - localhost:3000
 9) Created CICD Pipline for this Application.
+10) Database used - AWS RDS.
 
 
 .env
