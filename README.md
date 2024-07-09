@@ -8,7 +8,8 @@ Setup Application -
 6) Run test cases - npm test
 7) Attached api documentation with email.
 8) Used aws RDS service for database.
-
+9) Base url - localhost:3000
+10) Created CICD Pipline for this Application;
 
 .env
 PORT = 3000
@@ -17,3 +18,24 @@ USER= rajatkhobragade
 PASSWORD = rajatrajat12
 HOST = database-1.c5miqk2sydop.ap-south-1.rds.amazonaws.com
 SECRET = 314563BHGfhjgf5623vghfds
+
+
+Base Url - localhost:3000
+
+User routes - 
+Register(POST) - /users/register
+Login (POST)- /users/login
+Get Profile (GET)- /users/profile
+
+Game routes
+
+Create Game (POST)- /games/game
+Get All Game (GET) - /games/game
+Update Game (PUT) - /games/game/:id
+Delete Game (Delete) - /games/game/:id
+
+Score route
+
+Add Score(POST) - /scores/score
+Get All Scores By Users (GET)- /scores/score/user/:userId
+Get All Scores By Game (GET)- /scores/score/user/:gameId
