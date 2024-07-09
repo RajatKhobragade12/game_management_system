@@ -21,6 +21,13 @@ HOST = database-1.c5miqk2sydop.ap-south-1.rds.amazonaws.com
 SECRET = 314563BHGfhjgf5623vghfds
 
 
+
+
+
+
+
+
+
 Base Url - localhost:3000
 
 User routes - 
